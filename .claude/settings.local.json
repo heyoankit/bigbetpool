@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew --version)",
+      "Bash(/usr/bin/git -C /Users/ankit/Downloads/Big_Bet_Pool init)",
+      "Bash(/usr/bin/git -C /Users/ankit/Downloads/Big_Bet_Pool status)",
+      "Bash(git init *)",
+      "Bash(git add *)"
+    ]
+  }
+}
